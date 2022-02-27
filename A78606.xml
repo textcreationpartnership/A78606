@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A charge of high-treason, prepared by the London-apprentices, against Col. Hewson; and the strange apparitions that appeared unto him, immediatly after his being taken near Plymouth in Cornwal; with his speech and confession to the vision.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78606</idno>
+            <idno type="STC">Wing C2057</idno>
+            <idno type="STC">Thomason E1045_9</idno>
+            <idno type="STC">ESTC R211059</idno>
+            <idno type="EEBO-CITATION">99869794</idno>
+            <idno type="PROQUEST">99869794</idno>
+            <idno type="VID">168969</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168969)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1045[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A charge of high-treason, prepared by the London-apprentices, against Col. Hewson; and the strange apparitions that appeared unto him, immediatly after his being taken near Plymouth in Cornwal; with his speech and confession to the vision.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for C. Gustavus, and are to be sold in Fleetstrs [sic],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept. 24 1660".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hewson, John, d. 1662 --  Early works to 1800.</term>
+               <term>Visions --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168969:1" rendition="simple:additions"/>
+            <p>A CHARGE OF High-Treaſon, Prepared by the London-Apprentices, againſt Col. <hi>Hewſon;</hi> And the ſtrange Apparitions that appea<g ref="char:EOLhyphen"/>red unto him, immediatly after his being taken near <hi>Plymouth</hi> in <hi>Cornwal;</hi> With his Speech and Confeſſion to the <hi>Viſion.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>London,</hi> Printed for <hi>C. Guſtavus,</hi> and are to be ſold in <hi>Fleetſtr<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="political_pamphlet">
+            <pb facs="tcp:168969:2"/>
+            <pb n="1" facs="tcp:168969:2"/>
+            <head>THE Charge of High-Treaſon exhibited by the London-Prentices againſt Colonel Hewſon, &amp;c.</head>
+            <p>AMongſt the reſt of the Grand Traytors ta<g ref="char:EOLhyphen"/>ken and committed to Cuſtody, a late and happy Diſcovery (we hear) hath bin made of Col. Hewſon near Plymouth in Cornwal, where the Loyal Party are extraordinary vigilant in the due obſerving all things whatſoever that may con<g ref="char:EOLhyphen"/>duce to the peace and tranquility of his Majeſties good Subjects; And the London-Prentices (who formerly were as the Leading Guard to other Ci<g ref="char:EOLhyphen"/>ties and Countreyes) have demonſtrated their In<g ref="char:EOLhyphen"/>tegrity to the Government of his Sacred Majeſty; and an abſolute deteſtation againſt all thoſe who were any ways Abettors or Inſtrumental in the late Diſtractions and Troubles; And in purſuance
+<pb n="2" facs="tcp:168969:3"/>thereof, hath prepared a Charge againſt Col. Hew<g ref="char:EOLhyphen"/>ſon, to this effect; that is to ſay,</p>
+            <list>
+               <item n="1">1. That he is notoriouſly guilty of that moſt horrid and execrable Murder committed upon the Royal Perſon of our late Gracious Lord and Sovereign King <hi>Charles.</hi>
+               </item>
+               <item n="2">2. That He voted for the baniſhing of the Regal Line, and made it to be Treaſon to give them their proper Titles, or that any one ſhould pray for them in their Pulpits, or aid and aſſiſt them with any moneys, or other Neceſſaries.</item>
+               <item n="3">3. That he hath Trayterouſlo put to ſale divers of the Crown Lands, beſides Biſhops, Deans and Chapters; ma<g ref="char:EOLhyphen"/>king great ſpoyl of ſundry ſtately Woods, and likewiſe de<g ref="char:EOLhyphen"/>moliſhed ſeven ſtately Palaces and Mannors.</item>
+               <item n="4">4. That he was inſtrumental in the demoliſhing and ta<g ref="char:EOLhyphen"/>king down of the Royal Arms, and that he did break in pieces the great true Seal of the Land, and cauſed a new Stamp to be made to coyn money withal, with this circum<g ref="char:EOLhyphen"/>ſcription, <hi>God with us,</hi> when the Devil was in him.</item>
+            </list>
+            <p>With divers other particulars, which we ſhall omit till his Arraignment; by reaſon of ſome other Diſcourſe here intervening, touching his <hi>Lamentation;</hi> to wit,</p>
+            <sp>
+               <p>O what will become of me, or whither ſhall I go? O how am I aſtoniſhed to think of my horrid and wicked pro<g ref="char:EOLhyphen"/>ceedings? I have terrour of Conſcience within me, and fear before me, trouble on either ſide of me, and horrour behind me. My horrid Acts are more then I can bear; for <hi>Judas</hi>-like my Maſter I betray'd, and ſate in Judgment when he was try'd in that moſt Tyrannical and illegal High Court of Juſtice.</p>
+               <p>Our happy Hate! Would I had never climbed to Digni<g ref="char:EOLhyphen"/>ty:
+<pb n="3" facs="tcp:168969:3"/>O how was I inriched with a great Eſtate, Lorldly Ti<g ref="char:EOLhyphen"/>tles, great Command, rich Apparel, delicate Fare, magnifi<g ref="char:EOLhyphen"/>cent Buildings? I thinking my ſelf indeed no leſs then a petty King, not conſidering that Fortune might turn her Wheel the clean contrary way, though now ſhe hath kickt me off.</p>
+               <p>I muſt declare my Conſcience, that I aimed to be like my Maſter, and indeed to ſit in his Throne, and govern as he did: but this Whore Dame Fortune, whom I am bound to bleſs for her riches, but to curſe her for my Diſgraces. O that I could but get away to <hi>Graves-End,</hi> and ſhip my ſelf for ſome Forreign Countrey, and there to end my dayes. But hold, what groans are thoſe that I hear? drawing nearer and nearer to mine Ears, like unto the groanes of a dying man, having his death's Wound, in his full ſtrength, Crying, <hi>Cobler, Cobler, Cobler,</hi> and now I ſee a pale Ghoſt<g ref="char:EOLhyphen"/>ly face drawing near to me; now will I make uſe of my Rod of Command, for I call to mind the noble Sea-man that was without cauſe ſlain to pleaſe my envious fancy.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>
+                  <hi>Now have I found thee thou man of ſin, thou tyran<g ref="char:EOLhyphen"/>nous murderer, thou flattering Paraſite, thou deceiver of men, and thy Countrey; was it not enough for thee to be mock-honourable, but thou muſt commit wilfull murther upon thy Brother Cobler?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hewſon.</speaker>
+               <p> I dreamed in that little ſlumber that I had, that I was preferred, but not to my former Dignity; and being in a fainting ſweat, and troubled with horrour of Con<g ref="char:EOLhyphen"/>ſcience, an ugly Apparition appeared, with two Doctors, who caſting my Water, ſaid, <hi>Nothing but Death, Nothing but Death.</hi>
+               </p>
+               <p>The Terror whereof proved no ſmall aſtoniſhment, e<g ref="char:EOLhyphen"/>ſpecially when I heard a Voyce again crying out, <hi>No Mercy
+<pb n="4" facs="tcp:168969:4"/>for Traytors; the blood of your Soveraign cryes for vengeance.</hi>
+               </p>
+            </sp>
+            <p>This being ſeriouſly conſidered, may it not be a ſuffici<g ref="char:EOLhyphen"/>ent motive to induce all Rebellious Blood-ſuckers, to la<g ref="char:EOLhyphen"/>ment and cry out, <hi>O let that blood of our dear Soveraign, ſhed by the cruelty, covetouſneſs, and treachery of our hands, be for ever ſilent.</hi>
+            </p>
+            <p>But the great Cedars never fall alone: When the Sun is turned into bloud, it is no marvail if the Stars fall from Hea<g ref="char:EOLhyphen"/>ven; If the Fountain be dryed up, it is no marvail if the leſ<g ref="char:EOLhyphen"/>ſer Channels ceaſe their Current; and no man of judgment could expect, but ſuch Rebellious Spirits who rooted out the King, and all the Royal Race, they would likewiſe have deſtroyed the Nobles. Proteſtations to the contrary were not of value with thoſe that changed their principles toge<g ref="char:EOLhyphen"/>ther with their Fortune: They that thought it their glory to bind Kings in chains, deemed it their honour to bind No<g ref="char:EOLhyphen"/>bles in Links of Iron. Where the Scripture, <hi>Well is thee, O Land, when thy Princes are the Sons of Nobles,</hi> is become Apocryphal, there, in thoſe mens Divinity, no Nobles muſt be allowed to be the Sons of Princes. The next in ho<g ref="char:EOLhyphen"/>nour to the Royal Race are the Noble Families, and there<g ref="char:EOLhyphen"/>fore they muſt be next in ſuffering. No Biſhop, no King: No K ng no Nobles, were the undoubted ſequences of thoſe times. Thoſe that like Death would level Scepters with the Spade, will teach their Children to preſume againſt the An<g ref="char:EOLhyphen"/>cient, and the Vile againſt the Honourable.</p>
+            <p>And as for our preſent Sovereign (whom Divine Provi<g ref="char:EOLhyphen"/>dence hath reſerved to be the repairer of the breach) let it be the prayer of all true Subjects, that He may be as ano<g ref="char:EOLhyphen"/>ther <hi>Solomon,</hi> to ſit on the Throne of his Father <hi>David,</hi> being as eminent for his Wiſedom and Excellency of Majeſtick Power, as his Royall Father was for his Piety and Suffe<g ref="char:EOLhyphen"/>rings.</p>
+            <pb n="5" facs="tcp:168969:4"/>
+            <p>O let that Sunne which hath now long been muffled in Clouds, break forth with more reſplendent Majeſty; Let that Tree which hath been bound with Fetters budde forth, and be as the great Tree, which ſpreads its branches to the four corners of the earth, in whoſe branches the Fowls of the Aire do neſt, and under whoſe ſhadow the Beaſts of the field do reſt themſelves. O let all mens hearts, tongues, hands, and prayers, contribute to ſuch a bleſſing; and let it continue from Generation to Generation, till Time ſhall be no more, and till all the Kings of the Earth ſhall caſt down their Crowns at the feet of him that is King of Kings, and Lord of Lords: And in the mean time let all good Peo<g ref="char:EOLhyphen"/>ple in the paſſionate affections of their Souls cry out,</p>
+            <closer>God ſave King CHARLES the Second.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
